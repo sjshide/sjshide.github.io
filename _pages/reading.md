@@ -1,3 +1,15 @@
+---
+layout: archive
+title: "Reading"
+permalink: /reading/
+author_profile: true
+redirect_from:
+  - /reading
+---
+
+{% include base_path %}
+
+
 What I've been reading (tracked since 10/30/19).
 
 
