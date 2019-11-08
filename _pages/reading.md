@@ -13,5 +13,6 @@ redirect_from:
 What I've been reading (tracked since 10/30/19).
 
 
+- 11/6/19, Robin Sloan, *Sourdough: A Novel*
 - 11/1/19, Elif Batuman, *The Idiot*
 - 10/30/19, Haruki Murakami, *What I Talk About When I Talk About Running*
