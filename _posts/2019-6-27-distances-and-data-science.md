@@ -7,6 +7,8 @@ author: Sam Shideler
 mathjax: true
 ---
 
+*This post originally appeared on the ModelOp Tech Blog.*
+
 We're all aware of what 'distance' means in real-life scenarios, and how our notion
 of what 'distance' means can change with context. If we're talking about the distance
 from the ODG office to one of our favorite lunch spots, we probably mean the distance
