@@ -7,6 +7,8 @@ author: Sam Shideler
 mathjax: true
 ---
 
+*This post originally appeared on the ModelOp Tech Blog*
+
 Algebraic geometry is not a subject that often arises in conversations around data science and machine learning. However, recent work in the field of tropical geometry (a subset of algebraic geometry) suggests that this subject might be able give some insights into the types of functions representable by neural networks (as well as give some upper bounds on the complexity of functions representable by neural nets of fixed width and depth).
 
 As a former academic mathematician and current data scientist, I'm always somewhat surprised (but excited!) when there end up being direct connections between what I studied during my PhD and the work that I'm doing now. Because my research was in the fields of algebraic geometry and commutative algebra (neither of which is especially renowned for its connections to the real world), the opportunities to spot these links are few and far between.
@@ -18,19 +20,19 @@ My goal for this blog post is to give enough of an idea of what algebraic and tr
 ## Algebraic Geometry
 The basic idea of algebraic geometry is one that most people who have taken some math have encountered, even if they didn't know that it was algebraic geometry at the time - given a polynomial equation (like, say,  $y=x^2$), we can graph it as a function:
 
-![](/assets/posts/images/2019-4-11/yx2.png)
+![](/images/yx2.png)
 
 The main idea of algebraic geometry is that there is a very strong link between the algebraic side (the polynomial equation $y = x^2$) and the geometric side (the curve plotted in the above image), and that understanding one side of this well can give insights into the other side.
 
 Let's look at two more equations and their plots:
 
-![](/assets/posts/images/2019-4-11/algcurves.png)
+![](/images/algcurves.png)
 
 On the left is the curve $y^2 = x^3$, and on the right is the familiar circle $(x-1)^2 + y^2 = 1$, which can be rewritten as $y^2 = -x^2 - 2x$.
 
 Just as an example of the kind of investigation one can do, we could ask the geometric question 'given a curve, how many times can a straight line intersect it?'. Below are the same graphs with a 'maximally intersecting' line drawn as well.
 
-![](/assets/posts/images/2019-4-11/intersections.png)
+![](/images/intersections.png)
 
 So for the graphs of $y=x^2$ and $y^2 = -x^2 -2x$, the answer to this geometric question  is $2$, while for $y^2 = x^3$, the answer is $3$. It turns out that this geometric question has an algebraic answer: it is just the degree of the polynomial (the largest power appearing on a variable). Similarly, the fact that $y=x^2$ and $y^2 = -x^2-2x$ are both 'smooth' at the point $(0,0)$, while $y^2=x^3$ has a 'cusp' at that point, is related to the *lowest* degree appearing in the polynomials - for the first two it is 1, while for $y^2=x^3$ it is 2.
 
@@ -46,7 +48,7 @@ For example, the tropical polynomial $1 \oplus y^{\odot 2} \oplus (5\odot x^{\od
 
 In analogy to plotting the graphs where a polynomial equation holds in the standard setting (as we did above), in the tropical setting we can plot the boundaries where the function changes between the linear terms appearing (i.e. where two of the linear terms are equal). For example, our tropical polynomial $1 \oplus y^{\odot 2} \oplus (5\odot x^{\odot 3})$ is plotted below:
 
-![](/assets/posts/images/2019-4-11/trop.png)
+![](/images/trop.png)
 
 Note that a tropical polynomial $F$ is piecewise linear. Thus we get a partition of its domain into regions on which $F$ can be written as a single linear function. In the example above, these are the three cells split up by the lines. On the lower left rectangular region, our function equals $1$. On the top region, the function equals $2y$, and on the righthand region the function equals $3x+5$. The number of such regions is denoted by $\mathcal{N}(F)$, and Zhang et al. indicate that this can be thought of as a 'measure of complexity' for the function $F$ - basically the more regions necessary to describe $F$, the more complicated $F$ is.
 
