@@ -6,6 +6,7 @@ tags: [forecasting]
 author: Sam Shideler
 ---
 
+*This post originally appeared on the ModelOp Tech Blog*
 
 If I could predict the future, some aspects of business would become
 much easier. For instance, if I owned a store and could somehow divine
@@ -41,7 +42,7 @@ temperatures at O'Hare airport from 1991 to the present, averaged by
 month. We then create an R ts() object containing just this information.
 It is plotted in Figure 1 below.
 
-![Figure 1](/assets/posts/images/plot1-1.png)
+![Figure 1](/images/plot1-1.png)
 
 Before we even begin trying to model anything, let's make a few
 observations. First, we can see that all of these numbers lie between
@@ -71,7 +72,7 @@ different years, slightly less correlated with the surrounding months,
 and has negative correlation roughly 6 months ahead. This tells us that
 this series is strongly seasonal.
 
-![Figure 2](/assets/posts/images/autoc-1.png)
+![Figure 2](/images/autoc-1.png)
 
 Baselines for Forecasting
 -------------------------
