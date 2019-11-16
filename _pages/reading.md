@@ -13,6 +13,7 @@ redirect_from:
 What I've been reading (tracked since 10/30/19).
 
 
+- 11/15/19, Emily Nussbaum, *I Like To Watch*
 - 11/9/19, Adharanand Finn, *The Rise of the Ultra Runners*
 - 11/6/19, Robin Sloan, *Sourdough: A Novel*
 - 11/1/19, Elif Batuman, *The Idiot*
