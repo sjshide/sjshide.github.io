@@ -13,6 +13,7 @@ redirect_from:
 What I've been reading (tracked since 10/30/19).
 
 
+- 11/23/19, David Epstein, *Range*
 - 11/18/19, Cixin Liu, *The Three-Body Problem*
 - 11/15/19, Emily Nussbaum, *I Like To Watch*
 - 11/9/19, Adharanand Finn, *The Rise of the Ultra Runners*
