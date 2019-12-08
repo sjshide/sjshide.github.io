@@ -8,3 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+
+Please shoot me an email for my resume if you're interested!
