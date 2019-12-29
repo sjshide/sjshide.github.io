@@ -13,6 +13,8 @@ redirect_from:
 What I've been reading (tracked since 10/30/19).
 
 
+- 12/26/19, Taffy Brodesser-Akner, *Fleishman Is in Trouble*
+- 12/24/19, Michael Pollan, *Cooked*
 - 11/23/19, David Epstein, *Range*
 - 11/18/19, Cixin Liu, *The Three-Body Problem*
 - 11/15/19, Emily Nussbaum, *I Like To Watch*
