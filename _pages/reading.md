@@ -13,6 +13,13 @@ redirect_from:
 What I've been reading (tracked since 10/30/19).
 
 
+
+***2020***
+
+- 1/3/20, Neal Stephenson, *Reamde*
+
+***2019***
+
 - 12/26/19, Taffy Brodesser-Akner, *Fleishman Is in Trouble*
 - 12/24/19, Michael Pollan, *Cooked*
 - 11/23/19, David Epstein, *Range*
