@@ -16,4 +16,4 @@ Prior to that, I did my math PhD at [UIC](https://mscs.uic.edu/), where I studie
 
 Before that, I was an undergrad at [Princeton](https://www.math.princeton.edu/), where I did my senior thesis with Kevin on similar stuff to my PhD.
 
-Apart from that, I try to run a lot - here's [my Strava profile](https://www.strava.com/athletes/6930119). I also enjoy doing the NY Times Crossword Puzzle (current streak 396!) and am trying to read more - here's [what I've been reading lately](https://sjshide.github.io/reading/).
+Apart from that, I try to run a lot - here's [my Strava profile](https://www.strava.com/athletes/6930119). I also enjoy doing the NY Times Crossword Puzzle (current streak 444!) and am trying to read more - here's [what I've been reading lately](https://sjshide.github.io/reading/).
