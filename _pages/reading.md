@@ -16,6 +16,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2020***
 
+- 2/2/20, Bryan Burrough and John Helyar, *Barbarians at the Gate*
 - 1/11/20, Elif Batuman, *The Possessed*
 - 1/3/20, Neal Stephenson, *Reamde*
 
