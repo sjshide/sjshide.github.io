@@ -16,6 +16,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2020***
 
+- 2/15/20, Andrew Marantz, *Antisocial*
 - 2/9/20, Temi Oh, *Do You Dream of Terra-Two?*
 - 2/5/20, Susan Choi, *Trust Exercise*
 - 2/2/20, Bryan Burrough and John Helyar, *Barbarians at the Gate*
