@@ -16,6 +16,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2020***
 
+- 2/19/20, Emily St. John Mandel, *Station Eleven*
 - 2/15/20, Andrew Marantz, *Antisocial*
 - 2/9/20, Temi Oh, *Do You Dream of Terra-Two?*
 - 2/5/20, Susan Choi, *Trust Exercise*
