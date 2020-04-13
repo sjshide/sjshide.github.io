@@ -16,6 +16,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2020***
 
+- 4/12/20, Chris Lear, *Running with the Buffaloes*
+- 4/7/20, Michael Pollan, *A Place of My Own*
 - 3/14/20, Anna Wiener, *Uncanny Valley*
 - 2/19/20, Emily St. John Mandel, *Station Eleven*
 - 2/15/20, Andrew Marantz, *Antisocial*
