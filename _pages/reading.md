@@ -16,6 +16,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2020***
 
+- 10/12/20, Jordan Ellenberg, *How Not to Be Wrong*
 - 4/30/20, Haruki Murakami, *Kafka on the Shore*
 - 4/12/20, Chris Lear, *Running with the Buffaloes*
 - 4/7/20, Michael Pollan, *A Place of My Own*
