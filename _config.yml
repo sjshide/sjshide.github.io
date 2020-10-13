@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sam Shideler's Personal Page"
 title_separator          : "-"
 name                     : &name "Sam Shideler"
-description              : &description "Data Scientist at ModelOp"
+description              : &description "Data Scientist at NORAD"
 url                      : https://sjshide.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sjshide/sjshide.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sam Shideler"
-  avatar           : "IMG_3326.JPG"
+  avatar           : "aspens.jpg"
   bio              : "Data Scientist"
   location         : "Chicago, IL"
   employer         : "ModelOp"
