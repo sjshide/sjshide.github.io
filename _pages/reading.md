@@ -16,6 +16,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2020***
 
+- 11/8/20, Christian TeBordo, *Ghost Engine*
 - 11/4/20, Mark Scott-Nash, *Colorado 14er Disasters*
 - 11/2/20, Robert Macfarlane, *Mountains of the Mind*
 - 10/30/20, Daniel Kehlmann, *Tyll*
