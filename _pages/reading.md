@@ -16,6 +16,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2020***
 
+- 11/15/20, Jessica Anthony, *The Convalescent*
 - 11/11/20, Mark Obmascik, *Halfway to Heaven*
 - 11/8/20, Christian TeBordo, *Ghost Engine*
 - 11/4/20, Mark Scott-Nash, *Colorado 14er Disasters*
