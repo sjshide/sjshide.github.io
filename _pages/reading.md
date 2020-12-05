@@ -16,6 +16,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2020***
 
+- 12/5/20, Ottessa Moshfegh, *My Year of Rest and Relaxation*
 - 11/29/20, Neal Stephenson, *Some Remarks*
 - 11/26/20, Joshua Cohen, *Moving Kings*
 - 11/19/20, Erik Larson, *The Devil in the White City*
