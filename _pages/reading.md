@@ -15,6 +15,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2021***
 
+- 2/17/21, Thomas Pynchon, *Vineland*
 - 1/2/21, Karen Russell, *Orange World*
 
 ***2020***
