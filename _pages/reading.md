@@ -15,6 +15,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2021***
 
+- 03/14/21, George Saunders, *CivilWarLand in Bad Decline*
 - 03/13/21, Thomas Pynchon, *Inherent Vice*
 - 02/27/21, Thomas Pynchon, *The Crying of Lot 49*
 - 02/20/21, Tom Williams, *The Mimic's Own Voice*
