@@ -15,6 +15,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2021***
 
+- 04/04/21, George Saunders, *The Braindead Megaphone*
 - 03/14/21, George Saunders, *CivilWarLand in Bad Decline*
 - 03/13/21, Thomas Pynchon, *Inherent Vice*
 - 02/27/21, Thomas Pynchon, *The Crying of Lot 49*
