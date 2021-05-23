@@ -15,6 +15,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2021***
 
+- 05/22/21, Dava Sobel, *Longitude*
 - 05/22/21, David Foster Wallace, *Infinite Jest*
 - 04/20/21, David Foster Wallace, *The Pale King*
 - 04/04/21, George Saunders, *The Braindead Megaphone*
