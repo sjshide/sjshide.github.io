@@ -15,6 +15,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2021***
 
+- 08/15/21, Thomas Pynchon, *Mason & Dixon*
 - 06/02/21, Lauren Oyler, *Fake Accounts*
 - 05/22/21, Dava Sobel, *Longitude*
 - 05/22/21, David Foster Wallace, *Infinite Jest*
