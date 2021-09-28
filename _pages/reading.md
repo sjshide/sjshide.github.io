@@ -15,6 +15,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2021***
 
+- 09/27/21, Lydia Millet, *A Children's Bible*
 - 09/13/21, Donna Tartt, *The Secret History*
 - 09/08/21, William M. Bueler, *Roof of the Rockies*
 - 08/15/21, Thomas Pynchon, *Mason & Dixon*
