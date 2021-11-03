@@ -15,6 +15,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2021***
 
+- 11/02/21, Evan Ratliff, *The Mastermind* (Audiobook)
 - 10/19/21, Merlin Sheldrake, *Entangled Life*
 - 10/05/21, Haruki Murakami, *Pinball, 1973*
 - 10/03/21, Haruki Murakami, *Hear the Wind Sing*
