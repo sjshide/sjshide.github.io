@@ -15,6 +15,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2021***
 
+- 11/13/21, Christian TeBordo, *The Apology*
+- 11/12/21, Susanna Clarke, *Jonathan Strange & Mr. Norrell*
 - 11/02/21, Evan Ratliff, *The Mastermind* (Audiobook)
 - 10/19/21, Merlin Sheldrake, *Entangled Life*
 - 10/05/21, Haruki Murakami, *Pinball, 1973*
