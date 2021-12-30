@@ -15,6 +15,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2021***
 
+- 12/29/21, Cliff Stoll, *The Cuckoo's Egg*
 - 11/28/21, Kazuo Ishiguro, *Klara and the Sun*
 - 11/13/21, Christian TeBordo, *The Apology*
 - 11/12/21, Susanna Clarke, *Jonathan Strange & Mr. Norrell*
