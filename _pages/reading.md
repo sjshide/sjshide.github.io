@@ -12,6 +12,9 @@ redirect_from:
 
 What I've been reading (tracked since 10/30/19).
 
+***2022***
+
+- 01/02/22, George Saunders, *A Swim in a Pond in the Rain*
 
 ***2021***
 
