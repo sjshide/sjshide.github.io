@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2022***
 
+- 02/28/22, Elif Batuman, *The Idiot*
 - 02/16/22, Kazuo Ishiguro, *The Remains of the Day*
 - 01/31/22, George Saunders, *In Persuasion Nation*
 - 01/29/22, Steve Hagen, *Buddhism Plain and Simple*
