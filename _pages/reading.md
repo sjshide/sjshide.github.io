@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2022***
 
+- 06/25/22, Thomas Pynchon, *Against the Day*
+- 05/30/22, Dennard Dayle, *Everything Abridged*
 - 02/28/22, Elif Batuman, *The Idiot*
 - 02/16/22, Kazuo Ishiguro, *The Remains of the Day*
 - 01/31/22, George Saunders, *In Persuasion Nation*
