@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Data Scientist at NORAD&USNORTHCOM. 
+I'm a Research Staff Member at Institute for Defense Analyses. I'm working at the Missile Defense Agency.
 
-Before that, I was a Data Scientist at [ModelOp](https://www.modelop.com/). Most of my work involved helping our clients with DS-type modeling (mainly in finance). I also helped support our main goal - getting ML models into production and in front of business users.
+Before that, I was a Data Scientist NORAD/USNORTHCOM and a Data Scientist at [ModelOp](https://www.modelop.com/).
 
 Prior to that, I did my math PhD at [UIC](https://mscs.uic.edu/), where I studied algebraic geometry and commutatitve algebra under [Kevin Tucker](https://kftucker.people.uic.edu/home/). My thesis was on Limit F-Signature functions. I also took a bunch of DS and ML classes in my last few years.
 
