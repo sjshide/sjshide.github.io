@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2022***
 
+- 09/18/22, Elif Batuman, *Either/Or*
 - 06/25/22, Thomas Pynchon, *Against the Day*
 - 05/30/22, Dennard Dayle, *Everything Abridged*
 - 02/28/22, Elif Batuman, *The Idiot*
