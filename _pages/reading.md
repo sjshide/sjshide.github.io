@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2022***
 
+- 09/25/22, Adam Levin, *Mount Chicago*
 - 09/18/22, Elif Batuman, *Either/Or*
 - 06/25/22, Thomas Pynchon, *Against the Day*
 - 05/30/22, Dennard Dayle, *Everything Abridged*
