@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2022***
 
+- 10/16/22, Adam Ehrlich Sachs, *The Organs of Sense*
+- 10/06/22, Joshua Cohen, *The Netanyahus*
 - 09/25/22, Adam Levin, *Mount Chicago*
 - 09/18/22, Elif Batuman, *Either/Or*
 - 06/25/22, Thomas Pynchon, *Against the Day*
