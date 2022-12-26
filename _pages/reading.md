@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2022***
 
+- 12/25/22, Don DeLillo, *White Noise*
 - 11/19/22, Herman Melville, *Moby-Dick*
 - 10/22/22, Valeria Luiselli, *The Story of My Teeth*
 - 10/16/22, Adam Ehrlich Sachs, *The Organs of Sense*
