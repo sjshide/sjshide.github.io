@@ -12,6 +12,10 @@ redirect_from:
 
 What I've been reading (tracked since 10/30/19).
 
+***2023***
+
+- 01/02/23, R.F. Kuang, *Babel*
+
 ***2022***
 
 - 12/25/22, Don DeLillo, *White Noise*
