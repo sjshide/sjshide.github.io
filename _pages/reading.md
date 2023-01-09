@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 01/09/23, Olga Tokarczuk, *Drive Your Plow Over the Bones of the Dead*
 - 01/02/23, R.F. Kuang, *Babel*
 
 ***2022***
