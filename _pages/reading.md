@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 01/20/23, Jenny Offill, *Dept. of Speculation*
+- 01/15/23, Otessa Moshfegh, *Eileen*
 - 01/09/23, Olga Tokarczuk, *Drive Your Plow Over the Bones of the Dead*
 - 01/02/23, R.F. Kuang, *Babel*
 
