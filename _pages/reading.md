@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 01/22/23, Emily St. John Mnadel, *Sea of Tranquility*
 - 01/21/23, Olga Ravn, *The Employees*
 - 01/20/23, Jenny Offill, *Dept. of Speculation*
 - 01/15/23, Otessa Moshfegh, *Eileen*
