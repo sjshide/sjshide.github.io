@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 01/29/23, Thomas Pynchon, *Slow Learner*
+- 01/28/23, Amanda Montell, *Cultish*
 - 01/24/23, Sayaka Murata, *Convenience Store Woman*
 - 01/22/23, Emily St. John Mandel, *Sea of Tranquility*
 - 01/21/23, Olga Ravn, *The Employees*
