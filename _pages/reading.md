@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 02/05/23, Mark Haber, *Reinhardt's Garden*
+- 02/01/23, Ling Ma, *Severance*
 - 01/29/23, Thomas Pynchon, *Slow Learner*
 - 01/28/23, Amanda Montell, *Cultish*
 - 01/24/23, Sayaka Murata, *Convenience Store Woman*
