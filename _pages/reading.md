@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 02/05/23, Thomas Pynchon, *Bleeding Edge*
 - 02/05/23, Mark Haber, *Reinhardt's Garden*
 - 02/01/23, Ling Ma, *Severance*
 - 01/29/23, Thomas Pynchon, *Slow Learner*
