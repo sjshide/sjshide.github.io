@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 02/25/23, Jenny Offill, *Weather*
 - 02/12/23, Yuko Tsushima, *Woman Running in the Mountains*
 - 02/10/23, Helen DeWitt, *The English Understand Wool*
 - 02/05/23, Thomas Pynchon, *Bleeding Edge*
