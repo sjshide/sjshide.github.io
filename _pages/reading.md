@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 03/13/23, Hiroko Oyamada, *The Factory*
+- 03/11/23, Seishu Hase, *The Boy and the Dog*
 - 03/04/23, Italo Calvino, *Invisible Cities*
 - 02/25/23, Benjamin Labatut, *When We Cease to Understand the World*
 - 02/23/23, Yoko Ogawa, *The Memory Police*
