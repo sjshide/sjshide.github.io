@@ -14,6 +14,9 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 03/24/23, Cesar Aira, *The Famous Magician*
+- 03/24/23, Jessica Anthony, *Enter the Aardvark*
+- 03/19/23, Dario Diofebi, *Paradise, Nevada*
 - 03/13/23, Hiroko Oyamada, *The Factory*
 - 03/11/23, Seishu Hase, *The Boy and the Dog*
 - 03/04/23, Italo Calvino, *Invisible Cities*
