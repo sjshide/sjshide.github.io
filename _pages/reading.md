@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 04/01/23, Yuri Herrera, *Three Novels*
+- 03/28/23, Hiroko Oyamada, *The Hole*
 - 03/24/23, Cesar Aira, *The Famous Magician*
 - 03/24/23, Jessica Anthony, *Enter the Aardvark*
 - 03/19/23, Dario Diofebi, *Paradise, Nevada*
