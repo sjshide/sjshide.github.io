@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 04/08/23, Hiroko Oyamada, *Weasels in the Attic*
+- 04/06/23, Cesar Aira, *Fulgentius*
 - 04/02/23, Mark Haber, *Saint Sebastian's Abyss*
 - 04/01/23, Yuri Herrera, *Three Novels*
 - 03/28/23, Hiroko Oyamada, *The Hole*
