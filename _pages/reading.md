@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 04/15/23, Don DeLillo, *Cosmopolis*
 - 04/09/23, Kate Beaton, *Ducks: Two Years in the Oil Sands*
 - 04/08/23, Hiroko Oyamada, *Weasels in the Attic*
 - 04/06/23, Cesar Aira, *Fulgentius*
