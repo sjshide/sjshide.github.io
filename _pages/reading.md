@@ -14,14 +14,16 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 04/19/23, César Aira, *Conversations*
+- 04/18/23, China Miéville, *The City & the City*
 - 04/15/23, Don DeLillo, *Cosmopolis*
 - 04/09/23, Kate Beaton, *Ducks: Two Years in the Oil Sands*
 - 04/08/23, Hiroko Oyamada, *Weasels in the Attic*
-- 04/06/23, Cesar Aira, *Fulgentius*
+- 04/06/23, César Aira, *Fulgentius*
 - 04/02/23, Mark Haber, *Saint Sebastian's Abyss*
 - 04/01/23, Yuri Herrera, *Three Novels*
 - 03/28/23, Hiroko Oyamada, *The Hole*
-- 03/24/23, Cesar Aira, *The Famous Magician*
+- 03/24/23, César Aira, *The Famous Magician*
 - 03/24/23, Jessica Anthony, *Enter the Aardvark*
 - 03/19/23, Dario Diofebi, *Paradise, Nevada*
 - 03/13/23, Hiroko Oyamada, *The Factory*
