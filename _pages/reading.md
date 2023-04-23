@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 04/22/23, César Aira, *The Divorce*
+- 04/22/23, César Aira, *Dinner*
 - 04/19/23, César Aira, *Conversations*
 - 04/18/23, China Miéville, *The City & the City*
 - 04/15/23, Don DeLillo, *Cosmopolis*
