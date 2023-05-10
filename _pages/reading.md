@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 05/09/23, Yoko Tawada, *Scattered All Over the Earth*
+- 05/07/23, Laurent Mauvignier, *The Birthday Party*
 - 04/30/23, Ling Ma, *Bliss Montage*
 - 04/25/23, Fernanda Melchor, *Hurricane Season*
 - 04/22/23, César Aira, *The Divorce*
