@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 05/21/23, Otessa Moshfegh, *Lapvona*
 - 05/17/23, Fernanda Melchor, *Paradais* 
 - 05/15/23, Osamu Dazai, *The Flowers of Buffoonery*
 - 05/14/23, Alejandro Zambra, *Chilean Poet*
