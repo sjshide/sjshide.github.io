@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 05/28/23, Juan Rulfo, *Pedro Páramo*
+- 05/25/23, César Aira, *Ema, the Captive*
 - 05/21/23, Otessa Moshfegh, *Lapvona*
 - 05/17/23, Fernanda Melchor, *Paradais* 
 - 05/15/23, Osamu Dazai, *The Flowers of Buffoonery*
