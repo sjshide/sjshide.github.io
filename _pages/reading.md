@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 06/10/23, Mircea Cărtărescu, *Solenoid*
+- 06/01/23, Scholastique Mukasonga, *Kibogo*
 - 05/28/23, Juan Rulfo, *Pedro Páramo*
 - 05/25/23, César Aira, *Ema, the Captive*
 - 05/21/23, Otessa Moshfegh, *Lapvona*
