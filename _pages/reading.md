@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 07/03/23, Osamu Dazai, *Early Light*
 - 07/01/23, Neal Stephenson, *Anathem*
 - 06/21/23, Quentin Tarantino, *Cinema Speculation*
 - 06/10/23, Mircea Cărtărescu, *Solenoid*
