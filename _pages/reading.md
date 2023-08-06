@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 08/06/23, Cormac McCarthy, *Blood Meridian*
+- 07/16/23, Thomas Pynchon, *V*
 - 07/15/23, César Aira, *An Episode in the Life of a Landscape Painter*
 - 07/08/23, Roberto Bolaño, *By Night in Chile*
 - 07/08/23, Matt Bucher, *The Belan Deck*
