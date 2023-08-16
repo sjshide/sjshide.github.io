@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 08/15/23, Ted Conover, *Cheap Land Colorado*
 - 08/12/23, Denis Johnson, *Train Dreams*
 - 08/11/23, Oliver Roeder, *Seven Games*
 - 08/06/23, Cormac McCarthy, *Blood Meridian*
