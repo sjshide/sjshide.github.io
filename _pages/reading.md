@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 08/20/23, John Williams, *Butcher's Crossing*
 - 08/19/23, Catherynne Valente, *Radiance*
 - 08/15/23, Ted Conover, *Cheap Land Colorado*
 - 08/12/23, Denis Johnson, *Train Dreams*
