@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 08/25/23, José Emilio Pacheco, *Battles in the Desert*
 - 08/24/23, Susanna Clarke, *Piranesi*
 - 08/20/23, John Williams, *Butcher's Crossing*
 - 08/19/23, Catherynne Valente, *Radiance*
