@@ -14,6 +14,9 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 09/09/23, Yuri Herrera, *Ten Planets*
+- 09/03/23, Des Linden, *Choosing to Run*
+- 09/02/23, Ryan Chapman, *Riots I Have Known*
 - 08/26/23, Antoine Wilson, *Mouth to Mouth*
 - 08/25/23, José Emilio Pacheco, *Battles in the Desert*
 - 08/24/23, Susanna Clarke, *Piranesi*
