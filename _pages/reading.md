@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 09/30/23, William Gaddis, *J R*
 - 09/20/23, Hernan Diaz, *In the Distance*
 - 09/09/23, Yuri Herrera, *Ten Planets*
 - 09/03/23, Des Linden, *Choosing to Run*
