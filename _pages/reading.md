@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 10/13/23, Isabel Waidner, *Sterling Karat Gold*
+- 10/12/23, Sosuke Natsukawa, *The Cat Who Saved Books*
 - 10/04/23, Nell Zink, *The Wallcreeper*
 - 09/30/23, William Gaddis, *J R*
 - 09/20/23, Hernan Diaz, *In the Distance*
