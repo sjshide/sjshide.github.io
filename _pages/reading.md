@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 11/02/23, Jorge Luis Borges, *Ficciones*
 - 10/26/23, Jeff VanderMeer, *Annihilation*
 - 10/13/23, Isabel Waidner, *Sterling Karat Gold*
 - 10/12/23, Sosuke Natsukawa, *The Cat Who Saved Books*
