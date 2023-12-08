@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 12/06/23, César Aira, *Ghosts*
 - 11/05/23, Takashi Hiraide, *The Guest Cat*
 - 11/04/23, Martin Riker, *The Guest Lecture*
 - 11/02/23, Jorge Luis Borges, *Ficciones*
