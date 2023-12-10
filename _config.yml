@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sam Shideler's Personal Page"
 title_separator          : "-"
 name                     : &name "Sam Shideler"
-description              : &description "Data Scientist at NORAD"
+description              : &description "Research Staff Member at IDA"
 url                      : https://sjshide.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sjshide/sjshide.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sam Shideler"
   avatar           : "aspens.jpg"
-  bio              : "Data Scientist"
+  bio              : "Research Staff Member"
   location         : "Colorado Springs, CO"
-  employer         : "NORAD/USNORTHCOM"
+  employer         : "IDA"
   pubmed           : 
   googlescholar    : 
   email            :  "sjshide@gmail.com"
