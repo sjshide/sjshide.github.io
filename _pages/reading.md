@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 12/17/23, Steven Weisenburger, *A Gravity's Rainbow Companion*
+- 12/17/23, Thomas Pynchon, *Gravity's Rainbow*
 - 12/06/23, César Aira, *Ghosts*
 - 11/05/23, Takashi Hiraide, *The Guest Cat*
 - 11/04/23, Martin Riker, *The Guest Lecture*
