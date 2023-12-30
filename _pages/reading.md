@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 ***2023***
 
+- 12/30/23, Fran Ross, *Oreo*
 - 12/29/23, Jeff VanderMeer, *Authority*
 - 12/17/23, Steven Weisenburger, *A Gravity's Rainbow Companion*
 - 12/17/23, Thomas Pynchon, *Gravity's Rainbow*
