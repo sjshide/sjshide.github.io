@@ -12,6 +12,10 @@ redirect_from:
 
 What I've been reading (tracked since 10/30/19).
 
+**2024**
+
+- 01/12/24, Ed Park, *Same Bed Different Dreams*
+
 ***2023***
 
 - 12/31/23, Natalia Ginzburg, *The Dry Heart*
