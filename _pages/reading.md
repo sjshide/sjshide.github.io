@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 01/31/24, William Gaddis, *Carpenter's Gothic*
 - 01/20/24, William Gaddis, *The Recognitions*
 - 01/12/24, Ed Park, *Same Bed Different Dreams*
 
