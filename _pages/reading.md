@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 03/03/24, Roberto Bolaño, *Nazi Literature in the Americas*
 - 03/03/24, Sarah Manguso, *300 Arguments*
 - 03/03/24, Eric Chevillard, *Demolishing Nisard*
 - 02/27/24, Jen Craig, *Panthers and the Museum of Fire*
