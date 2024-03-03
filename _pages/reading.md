@@ -14,6 +14,9 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 03/03/24, Sarah Manguso, *300 Arguments*
+- 03/03/24, Eric Chevillard, *Demolishing Nisard*
+- 02/27/24, Jen Craig, *Panthers and the Museum of Fire*
 - 02/23/24, Roberto Bolaño, *2666*
 - 02/18/24, Sven Lindqvist, *A History of Bombing*
 - 01/31/24, William Gaddis, *Carpenter's Gothic*
