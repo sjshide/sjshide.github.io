@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 03/16/24, Helen DeWitt, *The English Understand Wool*
 - 03/16/24, Michael Winkler, *Grimmish*
 - 03/11/24, Helen DeWitt, *The Last Samurai*
 - 03/03/24, Roberto Bolaño, *Nazi Literature in the Americas*
