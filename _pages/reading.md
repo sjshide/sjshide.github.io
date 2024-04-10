@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 04/09/24, Thomas Bernhard, *The Lime Works*
 - 03/24/24, Thomas Bernhard, *Gargoyles*
 - 03/20/24, Helen DeWitt, *Lightning Rods*
 - 03/16/24, Helen DeWitt, *The English Understand Wool*
