@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 05/08/24, Thomas Bernhard, *Correction*
+- 04/30/24, Lucy Ellmann, *Ducks, Newburyport*
 - 04/21/24, Mauro Javier Cárdenas, *Aphasia*
 - 04/09/24, Thomas Bernhard, *The Lime Works*
 - 03/31/24, Helen DeWitt, *Some Trick*
