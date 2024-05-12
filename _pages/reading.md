@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 05/11/24, Robert Coover, *The Universal Baseball Association, Inc., J. Henry Waugh, Prop.*
 - 05/08/24, Thomas Bernhard, *Correction*
 - 04/30/24, Lucy Ellmann, *Ducks, Newburyport*
 - 04/21/24, Mauro Javier Cárdenas, *Aphasia*
