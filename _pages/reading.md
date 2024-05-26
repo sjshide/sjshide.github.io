@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 05/25/24, Robert Coover, *The Public Burning*
 - 05/24/24, Sven Lindqvist, *"Exterminate All the Brutes"*
 - 05/11/24, Robert Coover, *The Universal Baseball Association, Inc., J. Henry Waugh, Prop.*
 - 05/08/24, Thomas Bernhard, *Correction*
