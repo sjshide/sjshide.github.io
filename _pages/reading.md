@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 06/01/24, Can Xue, *Frontier*
 - 05/26/24, César Aira, *The Literary Conference*
 - 05/25/24, Robert Coover, *The Public Burning*
 - 05/24/24, Sven Lindqvist, *"Exterminate All the Brutes"*
