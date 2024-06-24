@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 06/23/24, Thomas Bernhard, *Concrete*
 - 06/22/24, Fyodor Dostoevsky, *The Brothers Karamazov* (with L, started at beginning of year)
 - 06/01/24, Can Xue, *Frontier*
 - 05/26/24, César Aira, *The Literary Conference*
