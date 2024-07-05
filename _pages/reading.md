@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 07/05/24, William Gaddis, *Agapē Agape*
 - 07/04/24, William Gaddis, *A Frolic of His Own*
 - 06/23/24, Thomas Bernhard, *Concrete*
 - 06/22/24, Fyodor Dostoevsky, *The Brothers Karamazov* (with L, started at beginning of year)
