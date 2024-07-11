@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 07/11/24, Isabel Waidner, *Corey Fah Does Social Mobility*
 - 07/06/24, Patrik Ouředník, *Europeana*
 - 07/05/24, William Gaddis, *Agapē Agape*
 - 07/04/24, William Gaddis, *A Frolic of His Own*
