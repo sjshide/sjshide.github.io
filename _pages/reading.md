@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 07/28/24, Fernanda Melchor, *This Is Not Miami*
+- 07/28/24, César Aira, *Festival & Game of the Worlds*
 - 07/11/24, Isabel Waidner, *Corey Fah Does Social Mobility*
 - 07/06/24, Patrik Ouředník, *Europeana*
 - 07/05/24, William Gaddis, *Agapē Agape*
