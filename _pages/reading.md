@@ -14,6 +14,9 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 08/11/24, Adam Ehrlich Sachs, *Gretal and the Great War*
+- 08/09/24, Anne de Marcken, *It Lasts Forever and Then It's Over*
+- 08/08/24, Alexis Wright, *Praiseworthy*
 - 07/28/24, Fernanda Melchor, *This Is Not Miami*
 - 07/28/24, César Aira, *Festival & Game of the Worlds*
 - 07/11/24, Isabel Waidner, *Corey Fah Does Social Mobility*
