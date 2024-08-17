@@ -14,7 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
-- 08/11/24, Adam Ehrlich Sachs, *Gretal and the Great War*
+- 08/16/24, Eliot Weinberger, *19 Ways of Looking at Wang Wei*
+- 08/11/24, Adam Ehrlich Sachs, *Gretel and the Great War*
 - 08/09/24, Anne de Marcken, *It Lasts Forever and Then It's Over*
 - 08/08/24, Alexis Wright, *Praiseworthy*
 - 07/28/24, Fernanda Melchor, *This Is Not Miami*
