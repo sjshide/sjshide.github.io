@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 08/19/24, László Krasznahorkai, *The Last Wolf & Herman*
+- 08/19/24, Thomas Bernhard, *The Loser*
 - 08/16/24, Eliot Weinberger, *19 Ways of Looking at Wang Wei*
 - 08/11/24, Adam Ehrlich Sachs, *Gretel and the Great War*
 - 08/09/24, Anne de Marcken, *It Lasts Forever and Then It's Over*
