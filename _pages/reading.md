@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 09/04/24, Dave Eggers, *The Honor of Your Presence*
+- 09/01/24, Jessica Anthony, *The Most*
 - 08/19/24, László Krasznahorkai, *The Last Wolf & Herman*
 - 08/19/24, Thomas Bernhard, *The Loser*
 - 08/16/24, Eliot Weinberger, *19 Ways of Looking at Wang Wei*
