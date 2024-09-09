@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 09/07/24, Jon Fosse, *A Shining*
+- 09/07/24, José Donoso, *The Obscene Bird of Night*
 - 09/04/24, Dave Eggers, *The Honor of Your Presence*
 - 09/01/24, Jessica Anthony, *The Most*
 - 08/19/24, László Krasznahorkai, *The Last Wolf & Herman*
