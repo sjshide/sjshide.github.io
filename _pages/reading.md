@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 10/09/24, David Foster Wallace, *Consider the Lobster*
 - 09/07/24, Jon Fosse, *A Shining*
 - 09/07/24, José Donoso, *The Obscene Bird of Night*
 - 09/04/24, Dave Eggers, *The Honor of Your Presence*
