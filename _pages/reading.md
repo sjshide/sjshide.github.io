@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 10/27/24, Han Kang, *Human Acts*
 - 10/22/24, Han Kang, *The White Book*
 - 10/20/24, Han Kang, *Greek Lessons*
 - 10/16/24, Richard Osman, *The Thursday Murder Club*
