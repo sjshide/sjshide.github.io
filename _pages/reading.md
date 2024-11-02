@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 11/02/24. Thomas Bernhard, *Frost*
 - 10/27/24, Han Kang, *Human Acts*
 - 10/22/24, Han Kang, *The White Book*
 - 10/20/24, Han Kang, *Greek Lessons*
