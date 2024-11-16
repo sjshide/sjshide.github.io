@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 11/16/24, Adania Shibli, *Minor Detail*
 - 11/13/24, Paul Beatty, *The Sellout*
 - 11/08/24, Thomas Bernhard, *Wittgenstein's Nephew*
 - 11/04/24, Thomas Bernhard, *Woodcutters*
