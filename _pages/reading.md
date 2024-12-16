@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 12/15/24, Lisa Tuttle, *My Death*
 - 12/13/24, Thomas Bernhard, *Old Masters*
 - 12/01/24, Heinrich von Kleist, *Michael Kohlhaas*
 - 11/26/24, Renata Adler, *Speedboat*
