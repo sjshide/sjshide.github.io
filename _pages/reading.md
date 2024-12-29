@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2024**
 
+- 12/29/24, Hisashi Kashiwai, *The Kamogawa Food Detectives*
 - 12/27/24, Mónica Ojeda, *Nefando*
 - 12/26/24, Atsuhiro Yoshida, *Goodnight Tokyo*
 - 12/24/24, Stefan Zweig, *Chess Story*
