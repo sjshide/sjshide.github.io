@@ -12,6 +12,10 @@ redirect_from:
 
 What I've been reading (tracked since 10/30/19).
 
+**2025**
+
+- 01/03/25, Thomas Bernhard, *Yes* 
+
 **2024**
 
 - 12/30/24, Samanta Schweblin, *Fever Dream*
