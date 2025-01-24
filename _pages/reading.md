@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 01/24/25, Richard Osman, *The Man Who Died Twice*
 - 01/20/25, Cristina Rivera Garza, *The Taiga Syndrome*
 - 01/20/25, Tove Jansson, *Fair Play*
 - 01/17/25, Mieko Kawakami, *All the Lovers in the Night*
