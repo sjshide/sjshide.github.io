@@ -14,6 +14,9 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 01/20/25, Cristina Rivera Garza, *The Taiga Syndrome*
+- 01/20/25, Tove Jansson, *Fair Play*
+- 01/17/25, Mieko Kawakami, *All the Lovers in the Night*
 - 01/15/25, William Faulkner, *As I Lay Dying*
 - 01/12/25, Cormac McCarthy, *The Orchard Keeper*
 - 01/03/25, Thomas Bernhard, *Yes* 
