@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 02/13/25, Vladimir Nabokov, *Pale Fire*
 - 02/10/25, Richard Osman, *The Last Devil to Die*
 - 02/08/25, Richard Osman, *The Bullet That Missed*
 - 02/04/25, Thomas Bernhard, *Three Novellas*
