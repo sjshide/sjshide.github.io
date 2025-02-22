@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 02/22/25, Renata Adler, *Pitch Dark*
 - 02/17/25, Richard Stern, *Golk*
 - 02/13/25, Vladimir Nabokov, *Pale Fire*
 - 02/10/25, Richard Osman, *The Last Devil to Die*
