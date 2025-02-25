@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 02/25/25, Benjamín Labatut, *The MANIAC*
 - 02/23/25, Olivier Schrauwen, *Parallel Lives*
 - 02/22/25, Renata Adler, *Pitch Dark*
 - 02/17/25, Richard Stern, *Golk*
@@ -162,7 +163,7 @@ What I've been reading (tracked since 10/30/19).
 - 03/13/23, Hiroko Oyamada, *The Factory*
 - 03/11/23, Seishu Hase, *The Boy and the Dog*
 - 03/04/23, Italo Calvino, *Invisible Cities*
-- 02/25/23, Benjamin Labatut, *When We Cease to Understand the World*
+- 02/25/23, Benjamín Labatut, *When We Cease to Understand the World*
 - 02/23/23, Yoko Ogawa, *The Memory Police*
 - 02/19/23, Deb Olin Unferth, *Barn 8*
 - 02/18/23, László Krasznahorkai, *A Mountain to the North, a Lake to the South, Paths to the West, a River to the East*
