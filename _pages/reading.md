@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 03/11/25, Brett Biebel, *A Mason & Dixon Companion*
+- 03/11/25, Thomas Pynchon, *Mason & Dixon*
 - 03/01/25, Cormac McCarthy, *Child of God*
 - 02/25/25, Benjamín Labatut, *The MANIAC*
 - 02/23/25, Olivier Schrauwen, *Parallel Lives*
