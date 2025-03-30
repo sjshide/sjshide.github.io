@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 03/30/25, Elisa Shua Dusapin, *Winter in Sokcho*
 - 03/29/25, Jordan Castro, *The Novelist*
 - 03/21/25, Mauro Javier Cárdenas, *American Abductions*
 - 03/19/25, Oğuz Atay, *Waiting for the Fear*
