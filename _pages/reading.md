@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 04/20/25, Elena Ferrante, *My Brilliant Friend*
 - 04/06/25, Olivier Schrauwen, *Sunday*
 - 04/03/25, Mariana Enriquez, *The Dangers of Smoking in Bed*
 - 03/30/25, Elisa Shua Dusapin, *Winter in Sokcho*
