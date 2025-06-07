@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 06/07/25, Cormac McCarthy, *All the Pretty Horses*
 - 05/31/25, Colson Whitehead, *The Underground Railroad*
 - 05/25/25, Cormac McCarthy, *Blood Meridian*
 - 05/13/25, Cormac McCarthy, *Suttree*
