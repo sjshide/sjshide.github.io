@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 06/21/25, Sayaka Murata, *Life Ceremony*
 - 06/17/25, George Saunders, *Lincoln in the Bardo*
 - 06/08/25, Solvej Balle, *On the Calculation of Volume II*
 - 06/07/25, Cormac McCarthy, *All the Pretty Horses*
