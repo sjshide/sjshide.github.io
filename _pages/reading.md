@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 06/25/25, Sayaka Murata, *Convenience Store Woman*
 - 06/22/25, Sayaka Murata, *Vanishing World*
 - 06/22/25, Sayaka Murata, *Life Ceremony*
 - 06/17/25, George Saunders, *Lincoln in the Bardo*
