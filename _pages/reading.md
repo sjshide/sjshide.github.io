@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 07/17/25, Nick Drnaso, *Acting Class*
 - 06/29/25, Sayaka Murata, *Earthlings*
 - 06/25/25, Sayaka Murata, *Convenience Store Woman*
 - 06/22/25, Sayaka Murata, *Vanishing World*
