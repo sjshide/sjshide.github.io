@@ -14,6 +14,9 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 08/05/25, Claudia Piñeiro, *Elena Knows*
+- 07/27/25, S.C. Gwynne, *Empire of the Summer Moon*
+- 07/24/25, Brian Allen Carr, *Bad Foundations*
 - 07/17/25, Nick Drnaso, *Acting Class*
 - 06/29/25, Sayaka Murata, *Earthlings*
 - 06/25/25, Sayaka Murata, *Convenience Store Woman*
