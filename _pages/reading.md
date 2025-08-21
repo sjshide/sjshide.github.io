@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 08/21/25, Thomas Pynchon, *Inherent Vice*
 - 08/05/25, Claudia Piñeiro, *Elena Knows*
 - 07/27/25, S.C. Gwynne, *Empire of the Summer Moon*
 - 07/24/25, Brian Allen Carr, *Bad Foundations*
