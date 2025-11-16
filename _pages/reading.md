@@ -14,6 +14,8 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 11/15/25, Cormac McCarthy, *The Crossing*
+- 11/09/25, Thomas Pynchon, *Shadow Ticket*
 - 10/25/25, László Krasznahorkai, *Satantango*
 - 10/08/25, Michael Chabon, *The Amazing Adventures of Kavalier & Clay*
 - 08/21/25, Thomas Pynchon, *Inherent Vice*
