@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 11/16/25, Richard Osman, *The Impossible Fortune*
 - 11/15/25, Cormac McCarthy, *The Crossing*
 - 11/09/25, Thomas Pynchon, *Shadow Ticket*
 - 10/25/25, László Krasznahorkai, *Satantango*
