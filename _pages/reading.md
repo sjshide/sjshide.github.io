@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 12/07/25, Nick Drnaso, *Beverly*
 - 12/06/25, Cormac McCarthy, *The Road*
 - 11/30/25, Cormac McCarthy, *The Sunset Limited*
 - 11/30/25, Cormac McCarthy, *No Country for Old Men*
