@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2025**
 
+- 12/26/25, Henry James, *The Turn of the Screw*
 - 12/25/25, Cormac McCarthy, *Stella Maris*
 - 12/20/25, Cormac McCarthy, *The Passenger*
 - 12/14/25, Alison Bechdel, *Fun Home*
