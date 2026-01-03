@@ -12,6 +12,10 @@ redirect_from:
 
 What I've been reading (tracked since 10/30/19).
 
+**2026**
+
+- 01/03/26, James Baldwin, *Giovanni's Room*
+
 **2025**
 
 - 12/26/25, Henry James, *The Turn of the Screw*
