@@ -14,7 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2026**
 
-- 01/22/26, Anna Shechtman, *The Riddles of the Sphinx*
+- 01/11/26, Anna Shechtman, *The Riddles of the Sphinx*
 - 01/03/26, James Baldwin, *Giovanni's Room*
 
 **2025**
