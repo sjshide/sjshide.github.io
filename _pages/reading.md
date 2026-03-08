@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2026**
 
+- 03/08/26, George Saunders, *Vigil*
 - 02/28/26, Natan Last, *Across the Universe*
 - 02/22/26, Herman Melville, *The Confidence-Man: His Masquerade* (+ *Bartleby* 2/23)
 - 02/10/26, James Joyce, *Dubliners*
