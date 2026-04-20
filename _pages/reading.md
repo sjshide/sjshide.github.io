@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2026**
 
+- 04/18/26, Pip Adam, *Audition*
 - 04/12/26, Homer, *The Odyssey* (trans. Emily Wilson)
 - 03/29/26, W.G. Sebald, *Vertigo*
 - 03/25/26, Rodrigo Fresán, *Melvill*
