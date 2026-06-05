@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2026**
 
+- 06/05/26, William Shakespeare, *Hamlet*
 - 05/09/26, Joaquim Maria Machado de Assis, *The Posthumous Memoirs of Brás Cubas*
 - 05/05/26, James Joyce, *A Portrait of the Artist as a Young Man*
 - 04/18/26, Pip Adam, *Audition*
