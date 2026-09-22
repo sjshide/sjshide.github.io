@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2026**
 
+- 09/22/26, Harry Blamires, *The New Bloomsday Book*
 - 09/21/26, Terence Killeen, *Ulysses Unbound*
 - 09/20/26, Don Gifford & Robert J. Seidman, *Ulysses Annotated*
 - 06/05/26, William Shakespeare, *Hamlet*
