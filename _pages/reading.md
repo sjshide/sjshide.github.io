@@ -14,6 +14,7 @@ What I've been reading (tracked since 10/30/19).
 
 **2026**
 
+- 09/25/26, James Joyce, *Ulysses* (x2; big reading project/goal for the year - did read a chapter, read supplemental books, reread chapter. Also listened to the *U22* podcast, the RTE radio play and discussions, and am working through Frank Delaney's *re: Joyce* slowly but surely)
 - 09/22/26, Harry Blamires, *The New Bloomsday Book*
 - 09/21/26, Terence Killeen, *Ulysses Unbound*
 - 09/20/26, Don Gifford & Robert J. Seidman, *Ulysses Annotated*
